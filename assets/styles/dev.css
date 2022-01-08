@@ -1,0 +1,15 @@
+.__br {
+    border: 1px dashed salmon !important;
+}
+
+.__p1 {
+    padding: .25em !important;
+}
+
+.__p2 {
+    padding: .5em !important;
+}
+
+.__bg {
+    background-color: slateblue;
+}
