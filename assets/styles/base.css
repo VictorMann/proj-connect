@@ -26,6 +26,11 @@ figure {
     padding: .3em;
 }
 
+.topo a {
+    display: inline-block;
+    width: 150px;
+}
+
 .title1 figure {
     display: inline-block;
 }
